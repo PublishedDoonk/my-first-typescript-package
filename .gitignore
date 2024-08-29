@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+# Package lock files
+package-lock.json
+
+# Changesets
+.changeset/
