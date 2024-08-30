@@ -1,0 +1,9 @@
+
+> my-first-package@1.0.0 build
+> tsc
+
+npm notice 
+npm notice New minor version of npm available! 10.2.3 -> 10.8.3
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v10.8.3>
+npm notice Run `npm install -g npm@10.8.3` to update!
+npm notice 

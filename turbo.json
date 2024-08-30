@@ -1,14 +1,8 @@
 {
-  "pipeline": {
+  "tasks": {
     "build": {
       "dependsOn": ["^build"],
       "outputs": ["dist/**"]
-    },
-    "lint": {
-      "outputs": []
-    },
-    "test": {
-      "outputs": []
     }
   }
 }
