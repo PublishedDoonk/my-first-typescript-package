@@ -1,5 +1,11 @@
 # my-first-package
 
+## 1.0.4
+
+### Patch Changes
+
+- made package public hopefully
+
 ## 1.0.3
 
 ### Patch Changes
